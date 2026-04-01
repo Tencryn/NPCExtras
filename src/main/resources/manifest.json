@@ -1,0 +1,10 @@
+{
+    "Group": "Tencryn",
+    "Name": "NPCExtras",
+    "Version": "0.0.0",
+    "Authors": [],
+    "DisabledByDefault": false,
+    "IncludesAssetPack": false,
+    "ServerVersion": "2026.03.26-92489d5e7",
+    "Main": "dev.tencryn.NPCExtras"
+}
